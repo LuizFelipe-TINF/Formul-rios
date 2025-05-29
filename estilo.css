@@ -1,0 +1,37 @@
+.textointeiro {
+    color: #e0e0e0;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    max-width: 1300px;
+    margin: auto;
+    background-color: rgba(8, 8, 8, 0.6);
+    line-height: 1.6;
+    
+    
+
+}
+
+.todoconteudo {
+    color: #e0e0e0;
+   padding: 8px;
+   border-radius: 5px;
+   font-weight: bold;
+   font-family: "Open Sans", sans-serif;
+   text-align: center;
+   max-width: 1300px;
+   margin: auto;
+   background-color: rgba(8, 8, 8, 0.6);
+   line-height: 1.6;
+   
+}
+.avatar {
+    width: 280px;
+    border: 8px solid white;
+    border-radius: 200px;
+}
+footer{
+    padding: 20px;
+}
